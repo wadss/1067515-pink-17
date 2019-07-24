@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ярослав Пащенко](https://up.htmlacademy.ru/adaptive/17/user/1067515).
-* Наставник: `Неизвестно`.
+* Наставник: [Настя Корсикова](https://htmlacademy.ru/profile/id1071901).
 
 ---
 
